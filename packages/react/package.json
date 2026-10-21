@@ -98,6 +98,7 @@
     "vitest": "^3.2.4"
   },
   "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
     "access": "public",
     "provenance": true
   },
